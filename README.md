@@ -1,2 +1,2 @@
 # MathGame
- Two-player same-computer math game
+ Two-player same-computer multiplication game
